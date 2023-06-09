@@ -1,0 +1,9 @@
+.card-img {
+ float: left;
+ margin-right: 30px
+}
+
+.card-name {
+  margin-top: 0;
+  font-size: 24px;
+}
